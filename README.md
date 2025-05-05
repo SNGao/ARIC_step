@@ -33,3 +33,6 @@ The study aims to deploy and compare five open-source step-counting algorithms (
 ## Contact
 
 For any questions or collaborations, please contact [SNGao](mailto:sgao57@jh.edu).
+
+## Reference
+Gao S, Zhou X, Koffman L, Wanigatunga AA, Schrack JA, Crainiceanu CM, Muschelli J. Comparing step counting algorithms for high-resolution wrist accelerometry data in older adults in the ARIC study. J Gerontol A Biol Sci Med Sci. 2025 Feb 18:glaf034. doi: 10.1093/gerona/glaf034. Epub ahead of print. PMID: 39963747.
